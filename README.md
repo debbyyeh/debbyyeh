@@ -22,5 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
-  
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
+ 
 </div>
