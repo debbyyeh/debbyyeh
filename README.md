@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## About Me
-- Utilized Bootstrap5 as the grid framework and is mobile-responsive.
-- Used jQuery for the toggle and animation effects.
-- Used Gulp.js to automatically pack and manage SCSS.
-- Implemented AOS to achieve scroll animation
+## <p>About Me</p>
+- A front-end engineer with over 4+ years experiences in business development, I am confident to initiate the conversation with diverse groups.
+- Loving to observe the social trend, I joined the online courses, bootcamp and studying group in the past 1+ years to stay focused onthe up-to-date innova tions in software industry.
