@@ -2,8 +2,8 @@
 <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/></div>
 
 <h3>About Me :cherry_blossom:</h3>
-- A front-end engineer with over 4+ years experiences in business development, I am confident to initiate the conversation with diverse groups.
-- Loving to observe the social trend, I joined the online courses, bootcamp and studying group in the past 1+ years to stay focused onthe up-to-date innova tions in software industry.
+● A front-end engineer with over 4+ years experiences in business development, I am confident to initiate the conversation with diverse groups. <br />
+● Loving to observe the social trend, I joined the online courses, bootcamp and studying group in the past 1+ years to stay focused onthe up-to-date innova tions in software industry.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tai-ying-yeh/">
