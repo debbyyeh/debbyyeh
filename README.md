@@ -1,4 +1,5 @@
 <h1>Hi there 👋</h1>
+<div><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/></div>
 
 <h3>About Me :cherry_blossom:</h3>
 - A front-end engineer with over 4+ years experiences in business development, I am confident to initiate the conversation with diverse groups.
