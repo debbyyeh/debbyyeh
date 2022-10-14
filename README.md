@@ -3,7 +3,11 @@
 <h3>About Me :cherry_blossom:</h3>
 - A front-end engineer with over 4+ years experiences in business development, I am confident to initiate the conversation with diverse groups.
 - Loving to observe the social trend, I joined the online courses, bootcamp and studying group in the past 1+ years to stay focused onthe up-to-date innova tions in software industry.
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/tai-ying-yeh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ---
 <h3>Languages and Tools :trophy:</h3>
 <div align="center">
