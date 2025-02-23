@@ -2,8 +2,9 @@
 <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/></div>
 
 <h3>About Me :cherry_blossom:</h3>
-● A front-end engineer with over 4+ years experiences in business development, I am confident to initiate the conversation with diverse groups. <br />
-● Loving to observe the social trend, I joined the online courses, bootcamp and studying group in the past 1+ years to stay focused onthe up-to-date innovations in software industry.
+Hello, I’m Tai-Ying Yeh, a software engineer with two years of experience. Before transitioning into software development, I worked in sales, which has allowed me to act as a bridge for external communication within the team, ensuring alignment between technical implementation and business requirements.
+I have a strong focus on user experience—not only do I ensure the functionality of the features I develop, but I also think about how to make the product more intuitive, improving overall flow and operational efficiency.
+In my past development experience, I’ve contributed to product development as well as internal system optimization, enabling non-technical personnel to manage website content more intuitively while reducing backend modification risks. These experiences have reinforced my aspiration to join a team that values product experience and fosters a collaborative work environment.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tai-ying-yeh/">
