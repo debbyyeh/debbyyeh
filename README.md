@@ -3,8 +3,8 @@
 
 <h3>About Me :cherry_blossom:</h3>
 Hello, I’m Tai-Ying Yeh, a software engineer with two years of experience. Before transitioning into software development, I worked in sales, which has allowed me to act as a bridge for external communication within the team, ensuring alignment between technical implementation and business requirements.
-I have a strong focus on user experience—not only do I ensure the functionality of the features I develop, but I also think about how to make the product more intuitive, improving overall flow and operational efficiency.
-In my past development experience, I’ve contributed to product development as well as internal system optimization, enabling non-technical personnel to manage website content more intuitively while reducing backend modification risks. These experiences have reinforced my aspiration to join a team that values product experience and fosters a collaborative work environment.
+I have a strong focus on user experience—not only do I ensure the functionality of the features I develop, but I also think about how to make the product more intuitive, improving overall flow and operational efficiency. </br>
+In my past development experience, I’ve contributed to product development as well as internal system optimization, enabling non-technical personnel to manage website content more intuitively while reducing backend modification risks. These experiences have reinforced my aspiration to join a team that values product experience and fosters a collaborative work environment. </br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tai-ying-yeh/">
