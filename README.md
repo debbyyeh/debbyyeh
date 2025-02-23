@@ -6,7 +6,8 @@ Hello, I’m Tai-Ying Yeh, a software engineer with two years of experience. Bef
 I have a strong focus on user experience—not only do I ensure the functionality of the features I develop, but I also think about how to make the product more intuitive, improving overall flow and operational efficiency. </br>
 In my past development experience, I’ve contributed to product development as well as internal system optimization, enabling non-technical personnel to manage website content more intuitively while reducing backend modification risks. These experiences have reinforced my aspiration to join a team that values product experience and fosters a collaborative work environment. </br>
 
-<div id="badges" align="center">
+
+<div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/tai-ying-yeh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
